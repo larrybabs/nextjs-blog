@@ -7,7 +7,7 @@ export default function FirstPost() {
     return (
     <>
     <Head>
-       <title> First Post</title>
+       <title> New Post</title>
     </Head>
     {/* <Script
         src="https://connect.facebook.net/en_US/sdk.js"
